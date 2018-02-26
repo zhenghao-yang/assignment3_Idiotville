@@ -10,7 +10,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-md-10 mx-auto">
-            <div class="post-heading">
+            <div class="page-heading">
               <h1>Fiyinfoluwa Oluyinka</h1>
              <!-- <h2 class="subheading">Hear his entrepreneurial stories</h2>
               <span class="meta">Posted by
@@ -56,7 +56,7 @@
         <div class="row">
           <div class="col-lg-8 col-md-10 mx-auto">
            
-            <p class="copyright text-muted">Copyright &copy; Your Website 2018</p>
+            <p class="copyright text-muted">Copyright &copy; Information Architect:Zhenghao Yang, Designer:Yidi Fan, Coder:Yuanzhuo Wang</p>
           </div>
         </div>
       </div>
