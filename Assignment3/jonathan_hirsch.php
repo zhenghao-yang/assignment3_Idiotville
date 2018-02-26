@@ -25,7 +25,7 @@
         <div class="col-lg-8 col-md-10 mx-auto">
 
 
-          <span class="caption text-muted">Jonathan Hirsch</span>
+         
 
           <p><a href="#">
               <img class="img-fluid" src="img/jonathan_hirsch.jpg" alt="">

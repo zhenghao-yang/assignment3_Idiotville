@@ -24,7 +24,7 @@
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
           
-          <span class="caption text-muted">Alejandro Abreu</span>
+        
 
           <p><a href="#">
               <img class="img-fluid" src="img/alejandro_abreu.jpg" alt="">

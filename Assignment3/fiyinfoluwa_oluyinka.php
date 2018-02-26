@@ -30,7 +30,7 @@
           <div class="col-lg-8 col-md-10 mx-auto">
 
         
-             <span class="caption text-muted">Fiyinfoluwa Oluyinka</span>
+             
             <p><a href="#">
               <img class="img-fluid" src="img/fiyinfoluwa_oluyinka.jpg" alt="">
             </a>During the summer of his freshman year, he worked for Mobil Producing Nigeria Unlimited; one of ExxonMobil's Upstream affiliates in Nigeria. Here, he was a member of the offshore field redevelopments', slot addition and riser repairs project team and he assisted in making feasibility reports for scheduled field redevelopment projects. He performed thorough reconciliation of materials in order to ensure that materials left over at the end of production jobs were accurately entered into the system and returned to their appropriate storage locations. During his time with the team, he was opportune to visit fabrication yards, where he witnessed the production of surfer ladders, prior to their installment offshore. He also participated in the Factory Acceptance test of a wellhead control panel, prior to its installation on a platform offshore.</p>
