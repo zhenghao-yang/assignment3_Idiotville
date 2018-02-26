@@ -9,16 +9,16 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
              <li class="nav-item">
-              <a  href="index.php">Home</a>
+              <a class = "<?php if($thisPage == 'home'){echo 'current';}?>" href="index.php">Home</a>
             </li>
             <li class="nav-item">
-              <a  href="alejandro_abreu.php">Alejandro Abreu</a>
+              <a class = "<?php if($thisPage == 'alejandro_abreu'){echo 'current';}?>" href="alejandro_abreu.php">Alejandro Abreu</a>
             </li>
             <li class="nav-item">
-              <a  href="fiyinfoluwa_oluyinka.php">Fiyinfoluwa Oluyinka</a>
+              <a class = "<?php if($thisPage == 'fiyinfoluwa_oluyinka'){echo 'current';}?>" href="fiyinfoluwa_oluyinka.php">Fiyinfoluwa Oluyinka</a>
             </li>
             <li class="nav-item">
-              <a  href="jonathan_hirsch.php">Jonathan Hirsch</a>
+              <a class = "<?php if($thisPage == 'jonathan_hirsch'){echo 'current';}?>" href="jonathan_hirsch.php">Jonathan Hirsch</a>
             </li>
           </ul>
         </div>

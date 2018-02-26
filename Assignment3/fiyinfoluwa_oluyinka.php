@@ -68,6 +68,7 @@
 
     <!-- Custom scripts for this template -->
     <script src="js/clean-blog.min.js"></script>
+    <script src="js/menu-highlighter.js"></script>
 
   </body>
 
