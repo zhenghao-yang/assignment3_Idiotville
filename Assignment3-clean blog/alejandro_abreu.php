@@ -23,12 +23,12 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
-          <a href="#">
-              <img class="img-fluid" src="img/alejandro_abreu.jpg" alt="">
-            </a>
+          
           <span class="caption text-muted">Alejandro Abreu</span>
 
-          <p>The first job that he obtained was here at the University of Rochester as a Building Manager at the Goergen Athletic Center. As a building manager at the Goergen Athletic Center, his main responsibilities include ensuring the safety of over 300 students and faculty members using the athletic facility. Building Managers take more than 3 tours a shift around the gym in order to ensure safety and proper usage of the equipment. In addition, a Building Manager is tasked with the responsibility of selling and promoting various membership packages. Finally, he also provided information of building and recreational activities to interested potential and active gym members over the phone or in person.</p>
+          <p><a href="#">
+              <img class="img-fluid" src="img/alejandro_abreu.jpg" alt="">
+            </a>The first job that he obtained was here at the University of Rochester as a Building Manager at the Goergen Athletic Center. As a building manager at the Goergen Athletic Center, his main responsibilities include ensuring the safety of over 300 students and faculty members using the athletic facility. Building Managers take more than 3 tours a shift around the gym in order to ensure safety and proper usage of the equipment. In addition, a Building Manager is tasked with the responsibility of selling and promoting various membership packages. Finally, he also provided information of building and recreational activities to interested potential and active gym members over the phone or in person.</p>
 
           <p>He has previously worked with Upward bound as tutor. Upward Bound main focus is to provide high school students with the resources and support they need to get to and through college. As a tutor for Upward Bound, he improved on his communication skills by being responsible for tutoring high school students individually and in small groups who struggled in math. He ensured that every student receives his undivided attention and grasp the material in order to complete their work. When not tasked with tutoring students, he completed an excel spreadsheet on students personal information. Tutoring for Upward Bound has given him some experience in office space environment.</p>
 

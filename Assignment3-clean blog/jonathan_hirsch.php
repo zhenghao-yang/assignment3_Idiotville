@@ -25,12 +25,11 @@
         <div class="col-lg-8 col-md-10 mx-auto">
 
 
-          <a href="#">
-              <img class="img-fluid" src="img/jonathan_hirsch.jpg" alt="">
-          </a>
           <span class="caption text-muted">Jonathan Hirsch</span>
 
-          <p>His first “job” was a research experience over the summer of 2014. He got to be an assistant to Dr. Steve Danford at the University of North Carolina Greensboro (UNCG), and helped analyze spectroscopy data of B[e] class stars. Astro-Physics will always be a love of his, and being able to take part in that line of research was a huge opportunity for him.</p>
+          <p><a href="#">
+              <img class="img-fluid" src="img/jonathan_hirsch.jpg" alt="">
+          </a>His first “job” was a research experience over the summer of 2014. He got to be an assistant to Dr. Steve Danford at the University of North Carolina Greensboro (UNCG), and helped analyze spectroscopy data of B[e] class stars. Astro-Physics will always be a love of his, and being able to take part in that line of research was a huge opportunity for him.</p>
 
           <p>In the summer of 2017, he ended up with a job at Lowes in Mobile, Al as a sales associate. His duties included keeping shelves stocked and presentable, helping customers in his area find what they needed as well as pushing the sales of lawn mowers and grills on unsuspecting customers. He enjoyed having a job that summer, but it was not one he wanted to continue to have in the future.</p>
 
