@@ -1,5 +1,5 @@
 <?php include "inc/html-top.inc"; ?>
-
+<?php $thisPage="alejandro_abreu"; ?>
   <body>
 
     <?php include "inc/nav.inc"; ?>
@@ -59,6 +59,7 @@
 
     <!-- Custom scripts for this template -->
     <script src="js/clean-blog.min.js"></script>
+    <script src="js/menu-highlighter.js"></script>
 
   </body>
 
