@@ -1,4 +1,5 @@
 <?php include "inc/html-top.inc"; ?>
+<?php $thisPage="jonathan_hirsch"; ?>
 
   <body>
 
