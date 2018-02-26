@@ -25,3 +25,6 @@ Coder: Yuanzhuo Wang
 2. Factor out common elements using PHP includes
 
 3. Install a JS plugin feature
+
+
+This website utilizes a clean-looking template from bootstrap, with modifications. Our intention was to present an artifully simple yet professional design so that our pages suit the theme and the content(students with entrepreneurial insight and professional experiences). The home page contains an accordion created by JavaScript which provides a brief intro for each of the students. In addition, the navigation bar also has a user-friendly feature generated from JavaScript. When the viewer scrolls down the page, the navigation bar would disappear. However, the navigation will be shown again on the very top of the page whenever the viewer tries to scroll up to indicate where the user is.
