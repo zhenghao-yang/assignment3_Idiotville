@@ -6,7 +6,7 @@
     <?php include "inc/nav.inc"; ?>
 
     <!-- Page Header -->
-    <header class="masthead" style="background-image: url('img/post-bg.jpg')">
+    <header class="masthead" style="background-image: url('img/bg4.jpg')">
       <div class="overlay"></div>
       <div class="container">
         <div class="row">
