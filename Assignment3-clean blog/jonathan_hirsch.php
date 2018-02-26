@@ -30,11 +30,11 @@
           </a>
           <span class="caption text-muted">Jonathan Hirsch</span>
 
-          <p>My first “job” was a research experience over the summer of 2014. I got to be an assistant to Dr. Steve Danford at the University of North Carolina Greensboro (UNCG), and helped analyze spectroscopy data of B[e] class stars. Astro-Physics will always be a love of mine, and being able to take part in that line of research was a huge opportunity for me.</p>
+          <p>His first “job” was a research experience over the summer of 2014. He got to be an assistant to Dr. Steve Danford at the University of North Carolina Greensboro (UNCG), and helped analyze spectroscopy data of B[e] class stars. Astro-Physics will always be a love of his, and being able to take part in that line of research was a huge opportunity for him.</p>
 
-          <p>In the summer of 2017, I ended up with a job at Lowes in Mobile, Al as a sales associate. My duties included keeping shelves stocked and presentable, helping customers in my area find what they needed as well as pushing the sales of lawn mowers and grills on unsuspecting customers. I enjoyed having a job that summer, but it was not one I wanted to continue to have in the future.</p>
+          <p>In the summer of 2017, he ended up with a job at Lowes in Mobile, Al as a sales associate. His duties included keeping shelves stocked and presentable, helping customers in his area find what they needed as well as pushing the sales of lawn mowers and grills on unsuspecting customers. He enjoyed having a job that summer, but it was not one he wanted to continue to have in the future.</p>
 
-          <p>My most recent job was in the fall semester of 2017 where I worked as a Laboratory Teaching Assistant for an introductory computer science course (i.e. CSC 161). That course teaches the language Python, and working as a TA to help other students write their programs really helped to improve my own skill. I enjoyed that opportunity to work with other students in a leadership position and will be attempting to get other teaching assistant jobs in the next school year.</p>
+          <p>His most recent job was in the fall semester of 2017 where he worked as a Laboratory Teaching Assistant for an introductory computer science course (i.e. CSC 161). That course teaches the language Python, and working as a TA to help other students write their programs really helped to improve his own skill. He enjoyed that opportunity to work with other students in a leadership position and will be attempting to get other teaching assistant jobs in the next school year.</p>
         </div>
       </div>
     </div>
