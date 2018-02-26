@@ -33,34 +33,15 @@
               <img class="img-fluid" src="img/fiyinfoluwa_oluyinka.jpg" alt="">
             </a>
              <span class="caption text-muted">Fiyinfoluwa Oluyinka</span>
-            <p>Never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet, in which there is no center because every point, or none, is center — an equal earth which all men occupy as equals. The airman's earth, if free men make it, will be truly round: a globe in practice, not in theory.</p>
+            <p>During the summer of his freshman year, he worked for Mobil Producing Nigeria Unlimited; one of ExxonMobil's Upstream affiliates in Nigeria. Here, he was a member of the offshore field redevelopments', slot addition and riser repairs project team and he assisted in making feasibility reports for scheduled field redevelopment projects. He performed thorough reconciliation of materials in order to ensure that materials left over at the end of production jobs were accurately entered into the system and returned to their appropriate storage locations. During his time with the team, he was opportune to visit fabrication yards, where he witnessed the production of surfer ladders, prior to their installment offshore. He also participated in the Factory Acceptance test of a wellhead control panel, prior to its installation on a platform offshore.</p>
 
-            <p>Science cuts two ways, of course; its products can be used for both good and evil. But there's no turning back from science. The early warnings about technological dangers also come from science.</p>
+            <!--<h2 class="section-heading">The Final Frontier</h2>-->
 
-            <p>What was most significant about the lunar voyage was not that man set foot on the Moon but that they set eye on the earth.</p>
+            <p>In his sophomore year, he had the opportunity to intern in the Technology Advisory unit of KPMG Nigeria, where he worked as a member of the project implementation team managing Fidelity Bank Nigeria’s core banking platform upgrade. On this engagement, he tracked issues experienced by the bank staff nationwide during simulations of the new platform, and collaborated with the bank’s technical team to ensure the issues were resolved within the required timeframe. He also prepared project assessment reports, for the project team as well as the Bank's Executive board, to keep them up to speed with the project’s progress. Overall, he learned how to work in a deadline-oriented environment, enhanced his collaborative skills, became adept in the use of Microsoft Excel as a tool for data analytics.</p>
 
-            <p>A Chinese tale tells of some men sent to harm a young girl who, upon seeing her beauty, become her protectors rather than her violators. That's how I felt seeing the Earth for the first time. I could not help but love and cherish her.</p>
+            <!--<blockquote class="blockquote">The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>-->
 
-            <p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
-
-            <h2 class="section-heading">The Final Frontier</h2>
-
-            <p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-            <p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
-
-            <blockquote class="blockquote">The dreams of yesterday are the hopes of today and the reality of tomorrow. Science has not yet mastered prophecy. We predict too much for the next year and yet far too little for the next ten.</blockquote>
-
-            <p>Spaceflights cannot be stopped. This is not the work of any one man or even a group of men. It is a historical process which mankind is carrying out in accordance with the natural laws of human development.</p>
-
-            <h2 class="section-heading">Reaching for the Stars</h2>
-
-            <p>As we got further and further away, it [the Earth] diminished in size. Finally it shrank to the size of a marble, the most beautiful you can imagine. That beautiful, warm, living object looked so fragile, so delicate, that if you touched it with a finger it would crumble and fall apart. Seeing this has to change a man.</p>
-
-
-            <p>Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.</p>
-
-            <p>As I stand out here in the wonders of the unknown at Hadley, I sort of realize there’s a fundamental truth to our nature, Man must explore, and this is exploration at its greatest.</p>
+            <p>In the summer of his Junior year, he worked as a research fellow in the University of Rochester’s Laboratory for Laser Energetics as a part of the Xerox Engineering Fellows Program. He assisted Dr. Roman Sobolewski and his team with their research on terahertz photonics and nano device characterization. Over the course of the fellowship, he performed experiments to explore the interaction between carbon nanotube samples and lasers within the Terahertz frequency range and he really enjoyed it. With the data obtained from these experiments, he calculated necessary parameters such as the conductivity, absorption coefficient and permittivity of the samples using MATLAB. However, considering the relatively short (8 weeks) duration of the program, he was only able to reach a preliminary conclusion. This prompted him to sign up for the Semiconductor Devices advanced elective, and to begin his Independent study in terahertz photonics in the fall semester of his senior year, in order to further develop his research and analytical skills, and to assist the team in fully understanding their samples, and discovering potential ground-breaking applications for them in industries ranging from security to medicine.</p>
 
           </div>
         </div>

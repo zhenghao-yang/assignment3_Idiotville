@@ -36,7 +36,7 @@
               <p>He was born in New Orleans in July, 1997 but moved to Greensboro, NC shortly after. He grew up in Greensboro and went to a few different schools including a catholic school, a Montessori School and finally the Greensboro Day School through high school. Now, He is a student at the University of Rochester studying mathematics and computer science.</p>
               
               </div>
-              
+
          
           <!-- Pager -->
         </div>
