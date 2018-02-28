@@ -1,11 +1,13 @@
 <?php include "inc/html-top.inc"; ?>
 <?php $thisPage="home"; ?>
+<!--General direction:
+The 3 students that I select are those who have abundant extracurricular activities or/and professional experiences. I filled the 3 individual pages with their experiences only, which are what I wish to highlight. Therefore, my intention is to create a clean, artifully simple but professional page. Please design accordingly to suit this style. As for typefaces/fonts, I would suggest using Geometric Sans or Humanist Sans to reflect the modern, professional feeling.-->
 
   <body>
-
    <?php include "inc/nav.inc"; ?>
 
     <!-- Page Header -->
+    <!-- Here goes the header, please use background pictures as opposed to single-color backgrounds, as a part of the header. If you(designer) are using a colorful, complex background picture, then please make the layout straightforward, for example, simply one column is enough, so the page won't look overwhelming. Of course, whether to use multiple columns or not is your freedom. -->
     <header class="masthead" style="background-image: url('img/bg1.jpg')">
       <div class="overlay"></div>
       <div class="container">
@@ -21,6 +23,7 @@
     </header>
 
     <!-- Main Content -->
+    <!-- Please use a accordion to display the brief intros of the 3 guys. There is no need to include their photos which go to their individual pages. That should satisfy the JS feature required by this assignment. Any additional feature would be greatly appreciated, for example a rotating background or something with the nav bar. -->
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-md-10 mx-auto">
@@ -37,9 +40,6 @@
               <p>He was born in New Orleans in July, 1997 but moved to Greensboro, NC shortly after. He grew up in Greensboro and went to a few different schools including a catholic school, a Montessori School and finally the Greensboro Day School through high school. Now, He is a student at the University of Rochester studying mathematics and computer science.</p>
               
               </div>
-
-         
-          <!-- Pager -->
         </div>
       </div>
     </div>
