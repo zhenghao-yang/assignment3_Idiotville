@@ -7,7 +7,7 @@ The 3 students that I select are those who have abundant extracurricular activit
    <?php include "inc/nav.inc"; ?>
 
     <!-- Page Header -->
-    <!-- Here goes the header, please use background pictures as opposed to single-color backgrounds, as a part of the header. If you(designer) are using a colorful, complex background picture, then please make the layout straightforward, for example, simply one column is enough, so the page won't look overwhelming. Of course, whether to use multiple columns or not is your freedom. -->
+    <!-- Here goes the header. Please make my <h1> the page title and <h2> the subtitle, both centered. I would suggest using background pictures as opposed to single-color backgrounds, as a part of the header, so our page has more "texture". If you(designer) are using a colorful, complex background picture, then please make the layout straightforward, for example, simply one column is enough, so the page won't look overwhelming. Of course, whether to use multiple columns or not is your freedom. And please make the style of the navigation bar consistent with that of our heading.-->
     <header class="masthead" style="background-image: url('img/bg1.jpg')">
       <div class="overlay"></div>
       <div class="container">

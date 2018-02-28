@@ -1,4 +1,6 @@
-# assignment3_Idiotville
+# Assignment3_Idiotville
+# Template used : Clean Blog from Boostrap
+
 
 Information Architect: Zhenghao Yang
 
